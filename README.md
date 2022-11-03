@@ -1,5 +1,7 @@
 ## RKNPU2
   RKNPU2 provides an advanced interface to access Rockchip NPU.
+  
+  参考：https://blog.csdn.net/sxj731533730/article/details/127029969?spm=1001.2101.3001.6650.9&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-9-127029969-blog-125578222.pc_relevant_recovery_v2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-9-127029969-blog-125578222.pc_relevant_recovery_v2&utm_relevant_index=16
 
 ## Support Platform
   - RK3566/RK3568
